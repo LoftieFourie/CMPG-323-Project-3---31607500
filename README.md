@@ -1,5 +1,8 @@
 # CMPG-323-Project-3---31607500
 Project 3 of CMPG 323 
+
+This project was about Implementing Repository patterns in Already existing code to improve our abilitie to work with existing code as well as new coding concepts
+
 # Referances
 
 • Build web apps with ASP.NET Core for beginners - Learn | Microsoft Docs
